@@ -1,0 +1,15 @@
+{
+  "name": "mock-server-standalone",
+  "version": "1.0.0",
+  "description": "Mock server module example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "de-mock-server-lib": "git+https://github.com/github-vipera/de-mock-server-lib/"
+  }
+}
