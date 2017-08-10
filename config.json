@@ -1,0 +1,8 @@
+{
+  "port": 3000,
+  "isMockEnabled": true,
+  "mockModulePath": "./mockImpl/mock.js",
+  "libraryLoaderPath": "./mockImpl/libraryLoader.js",
+  "localDBPath": "./mockImpl/dbFolder/",
+  "liveReload": true
+}
