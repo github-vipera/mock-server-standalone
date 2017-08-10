@@ -3,5 +3,6 @@
   "isMockEnabled": true,
   "mockModulePath": "./mockImpl/mock.js",
   "libraryLoaderPath": "./mockImpl/libraryLoader.js",
-  "localDBPath": "./mockImpl/dbFolder/"
+  "localDBPath": "./mockImpl/dbFolder/",
+  "liveReload": true
 }
